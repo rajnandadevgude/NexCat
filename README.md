@@ -1,18 +1,12 @@
 # NexCat - Blockchain Document Management System
 
-![NexCat Logo](public/NexCat-logo.png)
+![NexCat Logo]()
 
 NexCat is a decentralized document management system that leverages blockchain technology and IPFS (InterPlanetary File System) to provide secure, tamper-proof document storage, verification, and sharing.
 
 
 ## Features
 
-- **Secure Document Storage**: Store documents on IPFS with encryption
-- **Blockchain Verification**: Verify document authenticity using blockchain
-- **Document Sharing**: Securely share documents with specific users
-- **Tamper-Proof**: Ensure documents haven't been modified since upload
-- **Timestamping**: All documents are timestamped on the blockchain
-- **User Management**: Control access to your documents
 
 ## Technologies Used
 
@@ -33,6 +27,6 @@ NexCat is a decentralized document management system that leverages blockchain t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NexCat.git
+   git clone https://github.com/rajnandadevgude/NexCat.git
    cd NexCat
 
